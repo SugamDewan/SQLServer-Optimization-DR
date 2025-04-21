@@ -1,0 +1,12 @@
+2025-04-21 02:47:29 - Checking SQL Server backup status...
+2025-04-21 02:47:29 - Warning: Last backup for AdventureWorks2022 was 698 days ago on 2023-05-23 11:56:15!
+2025-04-21 02:47:30 - Analyzing query performance: SELECT * FROM Sales.Customer WHERE TerritoryID = 1
+2025-04-21 02:47:30 - Error: ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'Sales.Customer'. (208) (SQLExecDirectW)")
+2025-04-21 02:56:16 - Checking SQL Server backup status...
+2025-04-21 02:56:16 - Warning: Last backup for AdventureWorks2022 was 698 days ago on 2023-05-23 11:56:15!
+2025-04-21 02:56:16 - Analyzing query performance: SELECT * FROM Sales.Customer WHERE TerritoryID = 1
+2025-04-21 02:56:16 - Error: ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'Sales.Customer'. (208) (SQLExecDirectW)")
+2025-04-21 02:57:57 - Checking SQL Server backup status...
+2025-04-21 02:57:57 - Warning: Last backup for AdventureWorks2022 was 698 days ago on 2023-05-23 11:56:15!
+2025-04-21 02:57:57 - Analyzing query performance: SELECT * FROM TestTable WHERE Name = 'John'
+2025-04-21 02:57:57 - Query took 0.02 seconds. Rows returned: 1

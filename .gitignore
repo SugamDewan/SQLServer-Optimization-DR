@@ -1,0 +1,11 @@
+# Ignore everything in parent directories
+../*
+# But don't ignore the current project directory
+!../SQLServer-Optimization-DR/
+# Ignore specific system files and folders
+*.log
+*.tmp
+*.lnk
+desktop.ini
+# Don't ignore our project log file
+!optimization_log.txt
