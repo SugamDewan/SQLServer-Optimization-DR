@@ -7,5 +7,5 @@
 *.tmp
 *.lnk
 desktop.ini
-# Don't ignore our project log file
+# Don't ignore project log file
 !optimization_log.txt
